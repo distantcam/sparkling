@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/distantcam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cam.macfar.land
+  * I am distantcam (https://keybase.io/distantcam) on keybase.
+  * I have a public key with fingerprint F6C6 9E11 DC61 9DA7 B310  8417 875C C3D7 5421 5F94
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f6c69e11dc619da7b3108417875cc3d754215f94",
+            "host": "keybase.io",
+            "key_id": "875cc3d754215f94",
+            "kid": "01017a91aa55ccbe6a26e11a068910709ad36031745585e65e35e3f3e4c7a49a420c0a",
+            "uid": "312de081231934bb157f5ad5cddd0019",
+            "username": "distantcam"
+        },
+        "service": {
+            "hostname": "cam.macfar.land",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432816121,
+    "expire_in": 157680000,
+    "prev": "6d9be918f8063fe5be8d7e5dd7fbd41e3fdd78485e6dce665bd26a10d9353a58",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIjAnicbZJdSBVBFMevVoqKfUOaRTW9iF4uO7s7+3FLibTIsi+xh8C8zO7M6qbu
+3vauH7ebiNVLIFRW1ENJ9VAqQWVJQUVlZkpQUfRB0YsiBZlIomlJNiv21jAwM+f8
+z+/MOZzu1Dm+5Ljy7yW7Q2dxftzzx5uqfXvKkiZjQLNJFARjoILOHIZplVEn7JiW
+C4LAkHRJpRASXYIqwbImQE4RoazISNcFIiORh8hQReAH5XbEi2AYDUdowLSZjT1C
+JmHW/+grZhwc5KCMVYgxYgqNSpiXWD7MSYoKOZlTMREkToCyiJCCqISowLYhUFGX
+sahiked0DjNc9QxOgDyhnAJ5AaqCqGkQyQbCBOmEEI6DqieMUMfCVZSpiRlxseXq
+uArU+wGz15g69Zrg1TKrYc5AFdYN7AQqsUUYIOzYrq3blcxZ7rrhoBfrRsOeuJZq
+oVlMSDMtwnrJAmqoEzFtCwQhU+qu6XGhKPAKlCAP/YDWhU2HhkxPgWRJ4djy0tAa
+hpSIqlEVKobCSYJBkUYVIlNEiGxoRISsF+yqiF5viE4lCWmElzDkiCogASMFeIUd
+sGwQFNg3cRlDRswyC7vVDgX1XY9K5vrikn0J8+K9afAlJy38NyMfViZObystrFsx
+Hvcn/XijP/br+vlOmHeh98iXxoItLzuyh03VWUt2rHqasZmsX3R34/XJK7szwVRm
+3tuxnJsfR5oGUhKj9uKtPf6S3Hs9BaOnmwLtZ/LHYhuT7g8f4z92rlqdNfi25WvL
+tp/VS599Kz70tWjg9YKsdWfPNUW7P98KdsTuHM5xXwxVjpb2RvpbG+dXHLxa+Kor
+8Cmlee+p25ceVqRNTC9rig5mx9fuy3mw9cb6DTtf4Lpd+6e232yjLQ0/jjwZBBmX
+P2vtaYdLUxcEF7UWZ6V8S+C7Jvrbhvii8YvHj675rea+u3vn/Ym87u9dzZ1iZobe
+lzHSAJbOy1/Sd+3k8vQ3hX8Bx9opZw==
+=E1/K
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/distantcam
+
+==================================================================
