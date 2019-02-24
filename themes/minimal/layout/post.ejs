@@ -1,0 +1,65 @@
+<div class="blog-post">
+    <!-- Title -->
+    <h2 class="blog-post-title">
+        <a href="<%- config.root %><%- page.path %>">
+            <%- page.title || page.link%>
+        </a>
+    </h2>
+    <!-- Date and Author -->
+    <p class="blog-post-meta">
+        <%= page.date.format(config.date_format) %>
+        <% if(page.author) { %>
+            by <%- page.author %>
+        <% } %>
+    </p>
+    <!-- Content -->
+    <%- page.content %>
+</div>
+
+<hr>
+
+<h3 class="comments">Comments</h3>
+<form class="comments" method="POST" action="https://dev.staticman.net/v3/entry/github/distantcam/sparkling/master/source/">
+  <input name="options[redirect]" type="hidden" value="<%- url_for(page.path) %>">
+  <input name="options[slug]" type="hidden" value="<%- page.slug %>">
+
+  <label><input name="fields[name]" type="text" value="Cam MacFarland">Name</label>
+  <label><input name="fields[email]" type="email" value="distantcam@gmail.com">E-mail</label>
+  <label><textarea name="fields[message]">The message</textarea>Message</label>
+
+  <input id="submitComment" type="submit">
+</form>
+
+<div class="posting">Posting comment</div>
+
+<script>
+// Needs jQuery
+$("form").submit(function(e) {
+  e.preventDefault();
+
+  var form = $(this);
+  var url = form.attr("action");
+
+  form.hide();
+  $(".posting").show();
+
+  $.ajax({
+    type: "POST",
+    url: url,
+    data: form.serialize(),
+    success: function(response) {
+      $(".posting").hide();
+      $("#newComment").text(response.comment);
+    }
+  })  
+});
+</script>
+
+<% for (var comment of site.comments) { %>
+<% if (comment.slug === page.slug) { %>
+<div class="comment">
+<%= comment.comment %>
+</div>
+<% } } %>
+
+<div id="newComment" class="comment"></div>
