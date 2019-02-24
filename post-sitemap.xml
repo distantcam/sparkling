@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://cam.macfar.land</loc>
+        <loc>http://distantcam.github.io/sparkling</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://cam.macfar.land/Blog-Update-2018/</loc>
+        <loc>http://distantcam.github.io/sparkling/Blog-Update-2018/</loc>
         <lastmod>2019-02-18T03:29:47.596Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -16,7 +16,7 @@
     </url>
 
     <url>
-        <loc>http://cam.macfar.land/the-state-of-mvvm/</loc>
+        <loc>http://distantcam.github.io/sparkling/the-state-of-mvvm/</loc>
         <lastmod>2018-05-23T04:49:07.427Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -24,7 +24,7 @@
     </url>
 
     <url>
-        <loc>http://cam.macfar.land/existing-mvvm-frameworks/</loc>
+        <loc>http://distantcam.github.io/sparkling/existing-mvvm-frameworks/</loc>
         <lastmod>2018-05-23T04:49:02.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>http://cam.macfar.land/attachments/</loc>
+        <loc>http://distantcam.github.io/sparkling/attachments/</loc>
         <lastmod>2018-05-23T04:48:55.958Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>http://cam.macfar.land/mitigating-the-billion-dollar-mistake-fody-edition/</loc>
+        <loc>http://distantcam.github.io/sparkling/mitigating-the-billion-dollar-mistake-fody-edition/</loc>
         <lastmod>2018-05-23T04:48:49.142Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>http://cam.macfar.land/cool-new-features-of-c-6/</loc>
+        <loc>http://distantcam.github.io/sparkling/cool-new-features-of-c-6/</loc>
         <lastmod>2018-05-23T04:48:38.918Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -56,7 +56,7 @@
     </url>
 
     <url>
-        <loc>http://cam.macfar.land/akavache-and-etags/</loc>
+        <loc>http://distantcam.github.io/sparkling/akavache-and-etags/</loc>
         <lastmod>2018-05-23T04:48:28.075Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

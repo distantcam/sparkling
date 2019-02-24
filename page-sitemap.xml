@@ -2,27 +2,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://cam.macfar.land</loc>
+        <loc>http://distantcam.github.io/sparkling</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>http://cam.macfar.land/tags/</loc>
+        <loc>http://distantcam.github.io/sparkling/tags/</loc>
         <lastmod>2018-05-23T13:35:35.568Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://cam.macfar.land/categories/</loc>
+        <loc>http://distantcam.github.io/sparkling/categories/</loc>
         <lastmod>2018-05-23T03:58:22.949Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://cam.macfar.land/about/</loc>
+        <loc>http://distantcam.github.io/sparkling/about/</loc>
         <lastmod>2018-05-23T03:56:56.736Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>

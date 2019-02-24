@@ -3,17 +3,17 @@
 
 
     <sitemap>
-        <loc>http://cam.macfar.land/post-sitemap.xml</loc>
+        <loc>http://distantcam.github.io/sparkling/post-sitemap.xml</loc>
         <lastmod>2019-02-18T03:29:47.596Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://cam.macfar.land/page-sitemap.xml</loc>
+        <loc>http://distantcam.github.io/sparkling/page-sitemap.xml</loc>
         <lastmod>2018-05-23T13:35:35.568Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://cam.macfar.land/tag-sitemap.xml</loc>
+        <loc>http://distantcam.github.io/sparkling/tag-sitemap.xml</loc>
         <lastmod>2018-05-23T04:48:28.075Z</lastmod>
     </sitemap>
 
